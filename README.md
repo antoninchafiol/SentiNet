@@ -6,9 +6,10 @@ Alternatively, this also translate to completing the DeepGlobe Challenge regardi
 ## Goals
 Here's the established main goals regarding the content of the project:
 - [ ] Data preparation // Preprocessing
-    - [ ] Download and show images of the datasets.
-    - [ ] Preprocess images.
-    - [ ] Split into train/dev/test datasets.
+    - [x] Download and show images of the datasets.
+    - [x] Preprocess images.
+        - [ ] Check for better/more preprocessing techniques and apply them.
+    - [x] Split into train/dev/test datasets (Done by dataset).
 - [ ] Model Development 
     - [ ] Implement U-Net for Segmentation.
     - [ ] Improve U-Net with either (optionnal):
